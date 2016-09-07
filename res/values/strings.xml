@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animation Image</string>
+
+    <string name="btn_name_1">Left</string>
+    <string name="btn_name_2">Right</string>
+    <string name="btn_name_3">Up</string>
+    <string name="btn_name_4">Down</string>
+    <string name="btn_name_5">Rotate left</string>
+    <string name="btn_name_6">Rotate right</string>
+    <string name="btn_name_7">Zoom in</string>
+    <string name="btn_name_8">Zoom out</string>
+    <string name="btn_name_9">Zoom in + Rotate left</string>
+    <string name="btn_name_10">Zoom in + Rotate right</string>
+    <string name="btn_name_11">Zoom out + Rotate left</string>
+    <string name="btn_name_12">Zoom out + Rotate right</string>
+
+    <string name="RadioButton1">Green</string>
+    <string name="RadioButton2">Red</string>
+    <string name="RadioButton3">Yellow</string>
+    <string name="RadioButton4">Blue</string>
+
+    <string name="ImageView">Android Image</string>
+    <string name="signature">Dima Kolyas ©</string>
+</resources>
